@@ -10,4 +10,9 @@ function setup() {
     
 }
 
-function draw()
+function draw() {
+    for (let i = 0; i < foods.length; i++) {
+        textSize(36);
+        text(foods[i]);
+    }
+}
