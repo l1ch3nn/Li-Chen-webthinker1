@@ -10,6 +10,6 @@ function setup() {
     for (let i = 0; i < foods.length; i++) {
         textAlign(RIGHT, CENTER);
         textSize(36);
-        text(foods[0]);
+        text(foods[i]);
     }
 }
