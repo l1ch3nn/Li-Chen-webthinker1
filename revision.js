@@ -1,5 +1,6 @@
 let foods = [
-    "Pi"
+    "pizza",
+    ""
 ]
 
 function setup() {
