@@ -19,3 +19,7 @@
 
 let ySpeed;
 let yPos;
+
+function setup() {
+    
+}
