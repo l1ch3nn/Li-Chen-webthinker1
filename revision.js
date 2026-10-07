@@ -18,3 +18,4 @@
 // }
 
 let ySpeed;
+let yPos;
