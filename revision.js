@@ -1,18 +1,19 @@
-let foods = [
-    "pizza",
-    "icecream",
-    "burger"
-];
+// let foods = [
+//     "pizza",
+//     "icecream",
+//     "burger"
+// ];
 
-function setup() {
-    createCanvas(600, 400);
-    background("yellow");
+// function setup() {
+//     createCanvas(600, 400);
+//     background("yellow");
     
-}
+// }
 
-function draw() {
-    for (let i = 0; i < foods.length; i++) {
-        textSize(36);
-        text(foods[i], i * 180, 100);
-    }
-}
+// function draw() {
+//     for (let i = 0; i < foods.length; i++) {
+//         textSize(36);
+//         text(foods[i], i * 180, 100);
+//     }
+// }
+
