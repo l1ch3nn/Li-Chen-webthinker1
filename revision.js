@@ -13,6 +13,6 @@ function setup() {
 function draw() {
     for (let i = 0; i < foods.length; i++) {
         textSize(36);
-        text(foods[i], i * );
+        text(foods[i], i * 100, 100);
     }
 }
