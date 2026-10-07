@@ -1,5 +1,6 @@
 let foods = [
     "pizza",
+    "icecream",
     ""
 ]
 
