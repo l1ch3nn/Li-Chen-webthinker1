@@ -1,4 +1,6 @@
-let 
+let foods = [
+    "Pi"
+]
 
 function setup() {
     createCanvas(600, 400);
